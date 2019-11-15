@@ -31,8 +31,7 @@ Julia Python对比	|https://cheatsheets.quantecon.org/#creating-vectors
 Google小组 优化|	http://julia-programming-language.2336112.n4.nabble.com/Julia-Optimization-f5.html
 Julia 优化opt|	https://discourse.julialang.org/c/domain/opt
 Julia 优化opt 例子|	https://www.juliaopt.org/notebooks/Chiwei%20Yan%20-%20Cutting%20Stock.html
-Julia 优化opt 文档|	http://www.juliaopt.org/JuMP.jl/v0.18/callbacks.html 
-http://www.juliaopt.org/JuMP.jl/v0.20/solvers/ 	
+Julia 优化opt 文档|	http://www.juliaopt.org/JuMP.jl/v0.18/callbacks.html http://www.juliaopt.org/JuMP.jl/v0.20/solvers/ 	
 Github 优化|	https://github.com/JuliaCN/MeetUpMaterials/blob/master/Beijing2018
 Github 优化|	https://github.com/JuliaOpt/juliaopt-notebooks
 学Julia|	https://learnxinyminutes.com/docs/julia/

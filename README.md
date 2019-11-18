@@ -42,3 +42,7 @@ mathprogbase|https://mathprogbasejl.readthedocs.io/en/latest/index.html
 Juliabloggers 博客	|https://www.juliabloggers.com/ 
 Julia 博客	|https://opensourc.es/ 
 Julia 例子|	https://juliabyexample.helpmanual.io/ 
+
+
+
+## :fire: 2. Useful Books

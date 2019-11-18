@@ -46,3 +46,5 @@ Julia 例子|	https://juliabyexample.helpmanual.io/
 
 
 ## :fire: 2. Useful Books
+-  **书籍**  https://github.com/elegantcoin/LectureNotes_for_Julia/blob/master/pics/README.md
+

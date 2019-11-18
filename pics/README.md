@@ -11,7 +11,7 @@
 </p>
 <br />
 
-||||||
+|||
 |------------|	------------|
 <img src="https://github.com/elegantcoin/LectureNotes_for_Julia/blob/master/pics/1_algorithm_for_optimization.png" width="150" alt=" "/>|<img src="https://github.com/elegantcoin/LectureNotes_for_Julia/blob/master/pics/2_beginning_julia_programming.png" width="150" alt=" "/>|<img src="https://github.com/elegantcoin/LectureNotes_for_Julia/blob/master/pics/3_data_science_with_Julia.png" width="150" alt=" "/>|
 Algorithm for Optimization|Beginning Julia Programming|Data Science with Julia|

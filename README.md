@@ -12,7 +12,13 @@ Lecture Notes for Learning the Julia language
 </p>
 <br />
 
-## :fire: 1. Useful Links
+
+## :fire: 1. Useful Books
+
+![](https://github.com/elegantcoin/LectureNotes_for_Julia/blob/master/Book.png)
+-  **书籍**  https://github.com/elegantcoin/LectureNotes_for_Julia/blob/master/pics/README.md
+
+## :fire: 2. Useful Links
 #|Link|
 ------|------
 官方文档|	https://julialang.org/learning/
@@ -45,6 +51,4 @@ Julia 例子|	https://juliabyexample.helpmanual.io/
 
 
 
-## :fire: 2. Useful Books
--  **书籍**  https://github.com/elegantcoin/LectureNotes_for_Julia/blob/master/pics/README.md
 
